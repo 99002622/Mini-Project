@@ -28,7 +28,7 @@ std::string WomenPlayers::getTitle()
 {
 	return title;
 }     
-
+//Issue resolved
  int WomenPlayers::getDob()
  {
  	return dob;
