@@ -19,7 +19,9 @@
 - which helps to find the players by their fide id, add the players by giving all the parameters, computing the maximum rating among all the players, counting number of players in the taken dataset and grouping the players by Federation.
 
 Execute using the follwing command:
-*make
-*./all.out
+
+make
+
+./all.out
 
 
